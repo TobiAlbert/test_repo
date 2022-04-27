@@ -1,0 +1,17 @@
+{
+  "name": "dummy_lugah_entertainment_backend",
+  "version": "1.0.0",
+  "description": "Provide dummy responses for development on local server",
+  "main": "index.js",
+  "author": "Tobi Daada",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
